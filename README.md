@@ -1,0 +1,2 @@
+# RTSP_SERVER
+关于RTP和RTSP服务器的试写。这里主要是对h264和aac进行rtp和rtsp的传输接收
