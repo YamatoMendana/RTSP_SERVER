@@ -1,0 +1,2 @@
+add_subdirectory(aac_server)
+add_subdirectory(h264_server)
